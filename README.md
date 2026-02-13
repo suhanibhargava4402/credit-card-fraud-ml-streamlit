@@ -1,7 +1,7 @@
 # 💳 Credit Card Fraud Detection Using Machine Learning
 
 ## Machine Learning Assignment - 2  
-M.Tech (AIML/DSE) – BITS Pilani  
+M.Tech (AIML) – BITS Pilani  
 
 ---
 
@@ -130,6 +130,7 @@ Although multiple models achieved high accuracy due to dataset imbalance, KNN ac
 Since MCC is a balanced metric suitable for imbalanced datasets, KNN is considered the best performing model in this study.
 
 Ensemble models such as Random Forest and XGBoost also showed strong performance, but KNN achieved the best overall balance between precision and recall.
+
 
 
 
