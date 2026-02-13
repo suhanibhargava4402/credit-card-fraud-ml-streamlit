@@ -82,8 +82,6 @@ For each model, the following metrics were calculated:
 | Random Forest        | 0.999508 | 0.952909 | 0.960526 | 0.744898 | 0.839080 | 0.845645 |
 | XGBoost              | 0.999438 | 0.938952 | 0.866667 | 0.795918 | 0.829787 | 0.830261 |
 
-*Note: Replace the placeholder values with actual results obtained from model execution.*
-
 ---
 
 # 6️⃣ Observations on Model Performance
@@ -126,5 +124,6 @@ https://github.com/suhanibhargava4402/credit-card-fraud-ml-streamlit/tree/main
 Ensemble models such as Random Forest and XGBoost outperform individual models in fraud detection due to their ability to handle complex decision boundaries and imbalanced datasets effectively.
 
 The project demonstrates a complete end-to-end machine learning workflow including data preprocessing, model training, evaluation, and deployment.
+
 
 
