@@ -125,5 +125,12 @@ Ensemble models such as Random Forest and XGBoost outperform individual models i
 
 The project demonstrates a complete end-to-end machine learning workflow including data preprocessing, model training, evaluation, and deployment.
 
+Although multiple models achieved high accuracy due to dataset imbalance, KNN achieved the highest Matthews Correlation Coefficient (MCC = 0.8603) and strong F1-score performance.
+
+Since MCC is a balanced metric suitable for imbalanced datasets, KNN is considered the best performing model in this study.
+
+Ensemble models such as Random Forest and XGBoost also showed strong performance, but KNN achieved the best overall balance between precision and recall.
+
+
 
 
