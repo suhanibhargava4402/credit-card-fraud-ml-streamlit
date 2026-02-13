@@ -75,12 +75,12 @@ For each model, the following metrics were calculated:
 
 | ML Model Name        | Accuracy | AUC  | Precision | Recall | F1 Score | MCC |
 |----------------------|----------|------|-----------|--------|----------|-----|
-| Logistic Regression  | (Your Value) | (Your Value) | (Your Value) | (Your Value) | (Your Value) | (Your Value) |
-| Decision Tree        | (Your Value) | (Your Value) | (Your Value) | (Your Value) | (Your Value) | (Your Value) |
-| KNN                  | (Your Value) | (Your Value) | (Your Value) | (Your Value) | (Your Value) | (Your Value) |
-| Naive Bayes          | (Your Value) | (Your Value) | (Your Value) | (Your Value) | (Your Value) | (Your Value) |
-| Random Forest        | (Your Value) | (Your Value) | (Your Value) | (Your Value) | (Your Value) | (Your Value) |
-| XGBoost              | (Your Value) | (Your Value) | (Your Value) | (Your Value) | (Your Value) | (Your Value) |
+| Logistic Regression  | 0.975457 | 0.972063 | 0.060811 | 0.918367 | 0.114068 | 0.232876 |
+| Decision Tree        | 0.998929 | 0.861946 | 0.676190 | 0.724490 | 0.699507 | 0.699389 |
+| KNN                  | 0.999544 | 0.943744 | 0.918605 | 0.806122 | 0.858696 | 0.860305 |
+| Naive Bayes          | 0.976405 | 0.963248 | 0.058782 | 0.846939 | 0.109934 | 0.219519 |
+| Random Forest        | 0.999508 | 0.952909 | 0.960526 | 0.744898 | 0.839080 | 0.845645 |
+| XGBoost              | 0.999438 | 0.938952 | 0.866667 | 0.795918 | 0.829787 | 0.830261 |
 
 *Note: Replace the placeholder values with actual results obtained from model execution.*
 
@@ -126,4 +126,5 @@ https://github.com/suhanibhargava4402/credit-card-fraud-ml-streamlit/tree/main
 Ensemble models such as Random Forest and XGBoost outperform individual models in fraud detection due to their ability to handle complex decision boundaries and imbalanced datasets effectively.
 
 The project demonstrates a complete end-to-end machine learning workflow including data preprocessing, model training, evaluation, and deployment.
+
 
