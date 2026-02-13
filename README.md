@@ -117,7 +117,7 @@ https://credit-card-fraud-ml-app-epnd9k4vfittjhikuwhjcw.streamlit.app/
 # 8️⃣ GitHub Repository
 
 Repository Link:
-
+https://github.com/suhanibhargava4402/credit-card-fraud-ml-streamlit/tree/main
 
 ---
 
@@ -126,3 +126,4 @@ Repository Link:
 Ensemble models such as Random Forest and XGBoost outperform individual models in fraud detection due to their ability to handle complex decision boundaries and imbalanced datasets effectively.
 
 The project demonstrates a complete end-to-end machine learning workflow including data preprocessing, model training, evaluation, and deployment.
+
